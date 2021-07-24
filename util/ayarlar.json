@@ -1,0 +1,47 @@
+  {
+    "OKUMADANGECME" : "Aşağıdaki tamamen boş bırakılan yerlere ID girin OKUDUKTAN SONRA burayı silebilirsiniz + Olarak emojileri ID olarak koymazsanız çalışmaz",
+    "OKUMADANGECME2" : "TOKEN .env kısmında TOKEN yazan yerin karşısına tokeninizi yapıstırınız.",
+    "OKUMADANGECME3" : "BOT BAZEN HATA ÇIKARDIĞI İÇİN HOŞ GELDİN EMOJİLERİ KALDIRILMIŞTIR.",
+
+    "sahip" : "852812366474379265",
+    "prefix" : ".",
+    "footer" : "Winchester ❤️ ✭ V E R A",
+
+    "tags" : "✭",
+    "tagh" :" Etiket Tagımız   #2071",
+    "tag2":"†",
+    "sembol" : "-",
+  
+    "yetkiliRol" : ["863086670826831874", "", ""],
+    "vipRol" : "863086670722760714",
+    "boosterRol" : "",
+    "kayıtsızRol" : "863086670694055969",
+    "erkekRol1" : "863086670694055972",
+    "erkekRol2" : "863086670694055971",
+    "erkekRol3" :"863086670694055970",
+    "kadınRol1" : "863086670722760705",
+    "kadınRol2" : "863086670694055974",
+    "kadınRol3" : "863086670694055973",
+    "tagRol"    :"863086670785150987",
+    "sifirEmoji"  :"826462669623263273",
+    "birEmoji"    :"867734243215802368",
+    "ikiEmoji"    :"867734255680225300",
+    "ucEmoji"     :"867734266146193429",
+    "dortEmoji"   :"867734275843293234",
+    "besEmoji"    :"867734287310913537",
+    "altiEmoji"   :"867734301147660308",
+    "yediEmoji"   :"867734312933916683",
+    "sekizEmoji"  :"867734326631071754",
+     "dokuzEmoji" :"867734342423412757",
+    "yedek" :"'",
+    "normal" : "✭", 
+    "sunucu" :"863086670458126366",
+    "tagkanal":"863086678197403664",
+
+    "hosgeldinKanal" : "868079577090633738",
+    "sohbetKanal" : "", 
+    "botSesKanal" : "863086672229171245",
+  
+    "yes" : "867734372220534804",
+    "no" : "867734355664568340"
+}
